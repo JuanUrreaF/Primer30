@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  8 18:58:15 2020
-
-@author: user
-"""
-
 import pandas as pd
 import pyodbc
 
