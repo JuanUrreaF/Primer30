@@ -148,4 +148,3 @@ for row in df.itertuples():
                 row.Clases,
                 )
 conn.commit()
-###print()
